@@ -1,17 +1,32 @@
-# appmilansir
+# Zuppi - Login & Registration App
 
-A new Flutter project.
+Zuppi is a simple Flutter mobile application with Login and Registration pages.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Login page
+- Registration page
+- Email and password fields
+- Show/Hide password
+- Forgot Password option
+- Navigation between Login and Registration
+- Clean and modern UI
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+## How to Run
+
+1. Clone the repository.
+2. Open the project in Android Studio or VS Code.
+3. Run:
+
+```bash
+flutter pub get
+flutter run
